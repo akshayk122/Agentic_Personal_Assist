@@ -32,7 +32,7 @@ def add_expense(
     """Add a new expense to the tracker
     
     Args:
-        amount: Expense amount (e.g.,25.50)
+        amount: Expense amount (e.g.,$25.50)
         category: Expense category (food|transportation|entertainment|utilities|healthcare|shopping|electronics|other)
         description: Description of the expense
         date: Expense date in YYYY-MM-DD format (default: today)
