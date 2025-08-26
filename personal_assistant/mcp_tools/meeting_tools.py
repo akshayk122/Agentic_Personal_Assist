@@ -94,7 +94,7 @@ def list_meetings(
         str: Formatted list of meetings
     """
     # Format meetings list
-    result = f"📅 Demo Mode - Showing {len(SAMPLE_MEETINGS)} sample meetings:\n\n"
+    result = f"Demo Mode - Showing {len(SAMPLE_MEETINGS)} sample meetings:\n\n"
     
     for meeting in SAMPLE_MEETINGS:
         attendees_str = ", ".join(meeting["attendees"])
