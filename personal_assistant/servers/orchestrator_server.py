@@ -252,7 +252,7 @@ User ID Context: {extracted_user_id}""",
         yield Message(parts=[MessagePart(content=str(result))])
             
     except Exception as e:
-        error_response = f"Error in Personal Assistant Agent: {str(e)}"
+        error_response = f"Error in Personal Assistant Orchestrator: {str(e)}"
         yield Message(parts=[MessagePart(content=error_response)])
 
 if __name__ == "__main__":
