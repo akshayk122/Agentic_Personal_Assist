@@ -298,7 +298,7 @@ def update_expense(
     
     Args:
         expense_id: The expense ID to update
-        updates: JSON string with updates (e.g., '{"amount": 15.75, "category": "food"}')
+        updates: JSON string with updates (e.g., '{"amount": $15.75, "category": "food"}')
         user_id: User ID to verify expense ownership (optional, uses default if not provided)
     
     Returns:
