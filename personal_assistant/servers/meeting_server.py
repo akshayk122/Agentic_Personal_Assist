@@ -154,12 +154,6 @@ the actual meeting operations would be performed using the integrated MCP tools.
 - Update meeting details
 - Delete/cancel meetings
 - Check scheduling conflicts
-
-**Example Usage:**
-- "Schedule a team standup tomorrow at 9 AM"
-- "Show me all meetings this week"
-- "Find meetings with John in the title"
-- "Cancel meeting m001"
 """
         
         yield Message(parts=[MessagePart(content=response)])
