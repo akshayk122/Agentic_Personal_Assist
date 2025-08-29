@@ -127,10 +127,10 @@ Coordinates Expense Tracker, Notes, and Health/Diet agents to provide intelligen
 
 
 ## Query Routing
-- **Expense queries** → Expense Tracker (expense, spend, money, budget)
-- **Notes queries** → Notes Agent (note, search, organize)
-- **Health and Diet queries** → Health and Diet Agent (health, diet, fitness, nutrition, weight, exercise, meal, calorie, workout, food, goal, ate, eat, target, daily)
-- **Combined queries** → Multiple agents as needed
+- Expense queries → Expense Tracker (expense, spend, money, budget)
+- Notes queries → Notes Agent (note, search, organize)
+- Health and Diet queries → Health and Diet Agent (health, diet, fitness, nutrition, weight, exercise, meal, calorie, workout, food, goal, ate, eat, target, daily)
+- Combined queries → Multiple agents as needed
 
 ## Response Processing
 - Filter data based on user criteria (time periods, categories, status)
