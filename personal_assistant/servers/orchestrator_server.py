@@ -120,10 +120,10 @@ orchestrator_tools = [
 Coordinates Expense Tracker, Notes, and Health/Diet agents to provide intelligent responses.
 
 ## Core Capabilities
-- **Expense Tracking**: Record, categorize, analyze expenses  
-- **Notes Management**: Create, search, organize notes
-- **Health & Diet**: Track goals, log food, monitor progress
-- **Integrated Services**: Handle multi-agent queries
+- Expense Tracking: Record, categorize, analyze expenses  
+- Notes Management: Create, search, organize notes
+- Health & Diet: Track goals, log food, monitor progress
+- Integrated Services: Handle multi-agent queries
 
 
 ## Query Routing
