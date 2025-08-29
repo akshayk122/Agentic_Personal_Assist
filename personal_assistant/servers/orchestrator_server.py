@@ -118,7 +118,6 @@ orchestrator_tools = [
     description="""Personal Assistant Orchestrator
 
 Coordinates Expense Tracker, Notes, and Health/Diet agents to provide intelligent responses.
-
 ## Core Capabilities
 - Expense Tracking: Record, categorize, analyze expenses  
 - Notes Management: Create, search, organize notes
