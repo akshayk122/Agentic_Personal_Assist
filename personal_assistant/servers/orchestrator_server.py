@@ -107,7 +107,7 @@ class QueryHealthDietAgentTool(BaseTool):
 
 # Initialize tools
 orchestrator_tools = [
-    # QueryMeetingAgentTool(),  # DISABLED - Meeting agent commented out
+    # QueryMeetingAgentTool(),
     QueryExpenseAgentTool(),
     QueryNotesAgentTool(),
     QueryHealthDietAgentTool()
