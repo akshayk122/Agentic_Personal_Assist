@@ -370,7 +370,7 @@ def get_food_log() -> str:
                 meals[meal_type] = []
             meals[meal_type].append(food)
         
-        result = "Today's Food Log (Local Storage)\n\n"
+        result = "Today's Food Log\n\n"
         total_calories = 0
         
         for meal_type, foods in meals.items():
