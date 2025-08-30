@@ -360,7 +360,7 @@ def get_food_log() -> str:
         today_foods = [f for f in food_logs if f["date"] == today]
         
         if not today_foods:
-            return "No food logged today (Local Storage)"
+            return "No food logged today"
         
         # Group by meal type
         meals = {}
