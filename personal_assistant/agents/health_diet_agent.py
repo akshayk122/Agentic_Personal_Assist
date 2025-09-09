@@ -5,7 +5,7 @@ from crewai.tools import BaseTool
 import nest_asyncio
 import sys
 
-# Add parent directories to path
+# Add parent directories to path and other env variable
 load_dotenv()
 
 from utils.gemini_config import get_llm
