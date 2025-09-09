@@ -145,7 +145,7 @@ Manages basic health goal tracking and food logging.
             verbose=False
         )
         
-        # Create and run the Crew
+        # Create and run the Crew with agents
         crew = Crew(
             agents=[self.agent],
             tasks=[task],
