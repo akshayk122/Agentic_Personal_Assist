@@ -99,12 +99,12 @@ Manages personal notes with clear, organized responses.
             )
         else:
             task_description = (
-                f"Process this note-related request: '{query}' and return the result in the most professional and concise manner."
+                f"Process this note-related request: '{query}' and return the result most professionally and concisely."
             )
 
         task = Task(
             description=task_description,
-            expected_output="A clear, actionable response to the user's note management request in a professional and concise manner.",
+            expected_output="A clear, actionable response to the user's note management request professionally and concisely.",
             agent=self.agent,
             verbose=False
         )
