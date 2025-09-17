@@ -72,7 +72,7 @@ Manages personal notes with clear, organized responses.
 ## Output Formatting Standards
 -  Note Lists : Numbered lists with headers and timestamps
 -  Status Updates : Include completion status and modified dates
--  Action Results : Provide confirmation with note ID and details
+-  Action Results : Confirm with note ID and details
 -  Error Messages : Include error codes and resolution steps
 -  Empty States : Handle empty lists with helpful guidance
 -  Search Results : Highlight matching content with context
