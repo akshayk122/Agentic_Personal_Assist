@@ -52,7 +52,7 @@ class NotesAgent:
             goal="Help users manage their notes (add, list, delete, update)",
             backstory="""Smart Notes Assistant
 
-Manages personal and professional notes with clear, organized responses.
+Manages personal notes with clear, organized responses.
 
 ## Core Functions
 -  Add Notes : Create new notes with content and completion status
